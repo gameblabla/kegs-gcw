@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=KEGS
+Comment=Apple IIGS emulator
+Exec=kegs-sdl.elf
+Icon=icon
+Terminal=false
+Categories=emulators;
+X-OD-NeedsDownscaling=true
