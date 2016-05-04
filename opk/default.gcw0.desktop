@@ -2,8 +2,10 @@
 Type=Application
 Name=KEGS
 Comment=Apple IIGS emulator
-Exec=kegs-sdl.elf
+Exec=kegs-sdl.elf %f
 Icon=icon
 Terminal=false
 Categories=emulators;
+MimeType=application/text/plain;
+X-OD-Manual=readme.txt
 X-OD-NeedsDownscaling=true

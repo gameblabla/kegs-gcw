@@ -1,2 +1,0 @@
-s7d1 = rastan2.2mg
-s7d2 = rastan1.2mg

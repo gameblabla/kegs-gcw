@@ -20,6 +20,10 @@ char fileconfig[256];
 #include <windows.h>
 #endif
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <sys/stat.h>
 #include <math.h>
 
 #define INCLUDE_RCSID_C
