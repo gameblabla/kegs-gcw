@@ -333,8 +333,8 @@ joystick_update_sdl()
             * 280 / 65535;
         /*g_paddle_button[0] = SDL_JoystickGetButton(joy0, 0);
         g_paddle_button[1] = SDL_JoystickGetButton(joy0, 1);*/
+        SDL_JoystickUpdate();
     }
-    SDL_JoystickUpdate();
 #endif
 }
 
